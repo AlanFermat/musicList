@@ -9,5 +9,6 @@ All you need to do is:
 3. Replace playlist ID in ``music_script.js`` with your own YouTube music playlist.
 4. Click ``music.html`` and you can enjoy the music you want to play.
 
+## Demo
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=aKwnHaj0bJc)
+[![Watch the video](https://raw.githubusercontent.com/AlanFermat/musicList/master/demo_video_preview.png)](https://www.youtube.com/watch?v=aKwnHaj0bJc)
